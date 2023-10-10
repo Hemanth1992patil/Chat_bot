@@ -1,0 +1,7 @@
+Flask==2.3.2
+langchain==0.0.266
+langsmith==0.0.22
+openai==0.27.8
+openapi-schema-pydantic==1.2.4
+pandas==2.0.3
+requests==2.31.0
